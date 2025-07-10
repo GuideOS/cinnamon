@@ -1,0 +1,42 @@
+Format: 1.8
+Date: Thu, 10 Jul 2025 18:17:40 +0200
+Source: cinnamon
+Binary: cinnamon cinnamon-common cinnamon-dbgsym cinnamon-doc
+Architecture: source all amd64
+Version: 6.4.10-2+guideos250710
+Distribution: unstable
+Urgency: medium
+Maintainer: Debian Cinnamon Team <debian-cinnamon@lists.debian.org>
+Changed-By: Actionschnitzel <actionschnitzel@guideos.de>
+Description:
+ cinnamon   - Innovative and comfortable desktop
+ cinnamon-common - Innovative and comfortable desktop (Common data files)
+ cinnamon-doc - Innovative and comfortable desktop (Documentation)
+Changes:
+ cinnamon (6.4.10-2+guideos250710) unstable; urgency=medium
+ .
+   * Added: GuideOS Branding
+Checksums-Sha1:
+ f76dbd5bfd4e82902acfe81705d36f5a9fce201e 2071 cinnamon_6.4.10-2+guideos250710.dsc
+ a11ca4610bcaffaecdb913f1c8478ca9b5f43eb0 253704 cinnamon_6.4.10-2+guideos250710.debian.tar.xz
+ 7522a55f67cec706199fe1a7cb326f600aecc63d 1613568 cinnamon-common_6.4.10-2+guideos250710_all.deb
+ 2748a1667bfe586b9d15514db84ce9614496be1a 1023456 cinnamon-dbgsym_6.4.10-2+guideos250710_amd64.deb
+ ca13999f5b1665f0943438da288a18b748157eb6 184744 cinnamon-doc_6.4.10-2+guideos250710_all.deb
+ fd01d9dca7df1a13f3435f00925dd87f7217f180 20700 cinnamon_6.4.10-2+guideos250710_amd64.buildinfo
+ d0e56a5b7418d487e48a249a687cd842cc2cb204 418180 cinnamon_6.4.10-2+guideos250710_amd64.deb
+Checksums-Sha256:
+ 056dca824817e3845f4611ea714ba0404e704cd6dc77dac07e3cf4389b5c6922 2071 cinnamon_6.4.10-2+guideos250710.dsc
+ acb7136866532eb169a0122c5de5dea83e7c38f923665536b3cfdd6afc24229d 253704 cinnamon_6.4.10-2+guideos250710.debian.tar.xz
+ 5e2276c0e92cbb60b7ce7bada8e27b199b96d500af01d26fca54d4041a3f93fc 1613568 cinnamon-common_6.4.10-2+guideos250710_all.deb
+ ae5565efb8464133e1c1355b4d3dae58b5d695fdba7ffd3cb3638be329fe2253 1023456 cinnamon-dbgsym_6.4.10-2+guideos250710_amd64.deb
+ 29ee33a6d120f6622d383a51e8ba1080e93d29e4d0e446d08883acc39a2bbd17 184744 cinnamon-doc_6.4.10-2+guideos250710_all.deb
+ d54e78e31760d02810310a581180bf043387ec22c15784f17759c314db512b46 20700 cinnamon_6.4.10-2+guideos250710_amd64.buildinfo
+ 773f0b214682c546e34025615d06bf7a7a5cc756a1dadc674d517b7171b9cccc 418180 cinnamon_6.4.10-2+guideos250710_amd64.deb
+Files:
+ 410591f2ebb60ca8d90e65b70271ef84 2071 x11 optional cinnamon_6.4.10-2+guideos250710.dsc
+ 7cad37f97911e3c52a2799e4223b2c54 253704 x11 optional cinnamon_6.4.10-2+guideos250710.debian.tar.xz
+ 0493f8997b8ec60e79b3a840331a20e1 1613568 x11 optional cinnamon-common_6.4.10-2+guideos250710_all.deb
+ 4fd272379a46efbaabf8ee19530d85ca 1023456 debug optional cinnamon-dbgsym_6.4.10-2+guideos250710_amd64.deb
+ febfb03a3bde5bd016efd10b29c9e9ed 184744 doc optional cinnamon-doc_6.4.10-2+guideos250710_all.deb
+ 36a8eff9f4320f241be10dab7c5519d6 20700 x11 optional cinnamon_6.4.10-2+guideos250710_amd64.buildinfo
+ a28f185eddeb888517ca5e5119c2aa49 418180 x11 optional cinnamon_6.4.10-2+guideos250710_amd64.deb
