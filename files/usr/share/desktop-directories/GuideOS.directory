@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Directory
+Name=GuideOS
+Comment=Change system-wide settings (affects all users)
+Icon=cs-guideos-tools
